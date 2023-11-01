@@ -178,7 +178,7 @@ a.contect:hover {
     text-align: center;
     width: 90%;
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-columns:auto;
 
 
 }
@@ -186,16 +186,6 @@ a.contect:hover {
     font-size: 60px;
     grid-column: 1 / 7;
 }
-
-
-
-
-
-
-
-
-
-
 
 @media screen and (max-width: 500px) {
     .header a {
