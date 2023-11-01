@@ -3,7 +3,6 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-
 html {
     scroll-behavior: smooth;
 }
@@ -209,14 +208,6 @@ a.contect:hover {
         float: none;
     }
 }
-
-
-
-
-
-
-
-
 :root {
     --card-height: 300px;
     --card-width: calc(var(--card-height) / 1.5);
@@ -310,7 +301,7 @@ a.contect:hover {
   }
   
   .character {
-    width: 100%;
+    width: 80%;
     opacity: 0;
     transition: all 0.5s;
     position: absolute;
