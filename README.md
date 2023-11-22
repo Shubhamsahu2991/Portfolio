@@ -4,7 +4,7 @@ This was a website built to showcase my technical skills, web design skills.
 #Project timeline and technologies used
 # Check Now......
 
-https://storied-otter-7f0b76.netlify.app/
+<a href="https://storied-otter-7f0b76.netlify.app/" target=_blank>https://storied-otter-7f0b76.netlify.app/</a>
 
 # My technical skill set
 
